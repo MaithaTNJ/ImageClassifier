@@ -8,6 +8,8 @@ Part 2 - Building the command line application
 
 
 Part 1 - Image Classifier Development: 
+
+  file: Image Classifier Project (4).html
   
   In this first part of the project, i worked through a Jupyter notebook through anaconda prompt to implement an image classifier with Python. there are many python Packages that needed in this part, like Numpy, Pandas , json , Pytorch , PIL and MatplotLib.
   The network predicts the species of the flowers.
